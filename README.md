@@ -31,7 +31,7 @@
 
 ## 📌 Featured Projects
 
-### 📦 [Sri Lankan Post Office Order Pickup and Delivery System](https://github.com/dakshina-gk)
+### 📦 [Sri Lankan Post Office Order Pickup and Delivery System]([https://github.com/dakshina-gk](https://github.com/dakshina-gk/Trust-post-logistic))
 *(Ongoing group project modernizing parcel pickup & delivery)*  
 - Full-stack web + mobile system for customers, drivers, and admins.  
 - Real-time GPS tracking, cost estimation, secure payments, chatbot support.  
