@@ -1,6 +1,6 @@
 <!-- Banner / Intro -->
 <h1 align="center">👋 Hi, I'm Dakshina Nayanajith</h1>
-<h3 align="center">🚀 3rd-year Software Engineering Undergraduate | Full-Stack Developer | Mobile App Developer</h3>
+<h3 align="center">🚀 3rd-year Software Engineering Undergraduate | Web Developer | Mobile App Developer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dakshina-nayanajith-ab1b83341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
@@ -29,9 +29,7 @@
 
 **Tools & Platforms**  
 
-![VS Code](https://skillicons.dev/icons?i=vscode) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)  ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) ![WordPress](https://skillicons.dev/icons?i=wordpress)
-
-![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) ![WordPress](https://skillicons.dev/icons?i=wordpress)
+![VS Code](https://skillicons.dev/icons?i=vscode) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)  ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github)  ![WordPress](https://skillicons.dev/icons?i=wordpress) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white)
 
 **Programming Languages**  
 ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Dart](https://skillicons.dev/icons?i=dart) ![C](https://skillicons.dev/icons?i=c) ![PHP](https://skillicons.dev/icons?i=php)
