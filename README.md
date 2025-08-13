@@ -13,7 +13,7 @@
 ## 🛠 Tech Stack
 
 **Frontend**  
-![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) ![Sass](https://skillicons.dev/icons?i=sass)
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![Bootstrap](https://skillicons.dev/icons?i=bootstrap) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css) 
 
 **Backend**  
 ![Node.js](https://skillicons.dev/icons?i=nodejs) ![Express](https://skillicons.dev/icons?i=express) ![PHP](https://skillicons.dev/icons?i=php)
@@ -28,6 +28,9 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white) ![REST API](https://img.shields.io/badge/REST%20API-005571?logo=swagger&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQL-E10098?logo=graphql&logoColor=white)  
 
 **Tools & Platforms**  
+
+![VS Code](https://skillicons.dev/icons?i=vscode) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea)  ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) ![WordPress](https://skillicons.dev/icons?i=wordpress)
+
 ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Trello](https://img.shields.io/badge/Trello-0052CC?logo=trello&logoColor=white) ![WordPress](https://skillicons.dev/icons?i=wordpress)
 
 **Programming Languages**  
