@@ -2,7 +2,7 @@
 
 🎯 **Motivated 3rd-year Software Engineering Undergraduate** with hands-on experience in full-stack development, mobile app development, and cloud-based systems.  
 💡 Passionate about building impactful, real-world projects that combine technical excellence with great user experience.  
-🚀 Currently seeking a **Frontend / Backend Development Internship** to apply my skills in innovative and collaborative environments.  
+🚀 Currently seeking a ***WEB Development Internship** to apply my skills in innovative and collaborative environments.  
 
 ---
 
