@@ -1,81 +1,83 @@
-# 👋 Hi, I'm Dakshina Nayanajith
+<!-- Banner / Intro -->
+<h1 align="center">👋 Hi, I'm Dakshina Nayanajith</h1>
+<h3 align="center">🚀 3rd-year Software Engineering Undergraduate | Full-Stack Developer | Mobile App Developer</h3>
 
-🎯 **Motivated 3rd-year Software Engineering Undergraduate** with hands-on experience in full-stack development, mobile app development, and cloud-based systems.  
-💡 Passionate about building impactful, real-world projects that combine technical excellence with great user experience.  
-🚀 Currently seeking a ***WEB Development Internship** to apply my skills in innovative and collaborative environments.  
+<p align="center">
+  <a href="https://www.linkedin.com/in/dakshina-nayanajith-ab1b83341/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="mailto:dakshinagk@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://github.com/dakshina-gk"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" alt="GitHub"></a>
+</p>
 
 ---
 
 ## 🛠 Tech Stack
 
-**Frontend:**  
-![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)  
-![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white)  
-![Flutter](https://img.shields.io/badge/Flutter-02569B?logo=flutter&logoColor=white)  
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?logo=tailwind-css&logoColor=white)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)  
+**Frontend**  
+![React](https://skillicons.dev/icons?i=react) ![Next.js](https://skillicons.dev/icons?i=nextjs) ![Flutter](https://skillicons.dev/icons?i=flutter) ![Tailwind](https://skillicons.dev/icons?i=tailwind) ![HTML](https://skillicons.dev/icons?i=html) ![CSS](https://skillicons.dev/icons?i=css)
 
-**Backend:**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+**Backend**  
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![PHP](https://skillicons.dev/icons?i=php)
 
-**Databases:**  
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)  
+**Databases**  
+![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql)
 
-**Authentication & APIs:**  
-![JWT](https://img.shields.io/badge/JWT-000000?logo=jsonwebtokens&logoColor=white)  
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?logo=firebase&logoColor=white)  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white)  
+**Tools & APIs**  
+![Firebase](https://skillicons.dev/icons?i=firebase) ![Postman](https://skillicons.dev/icons?i=postman) ![Figma](https://skillicons.dev/icons?i=figma) ![Git](https://skillicons.dev/icons?i=git)  
 
-**Programming Languages:**  
-![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)  
-![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)  
-![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
+**Languages**  
+![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=javascript) ![Dart](https://skillicons.dev/icons?i=dart) ![C](https://skillicons.dev/icons?i=c) ![PHP](https://skillicons.dev/icons?i=php)
 
 ---
 
-## 📌 Projects
+## 📌 Featured Projects
 
-### 📦 [Sri Lankan Post Office Order Pickup and Delivery System](#)
-*Ongoing group project modernizing parcel pickup and delivery.*  
+### 📦 [Sri Lankan Post Office Order Pickup and Delivery System](https://github.com/dakshina-gk)
+*(Ongoing group project modernizing parcel pickup & delivery)*  
 - Full-stack web + mobile system for customers, drivers, and admins.  
-- Features: **Real-time GPS tracking**, cost estimation, parcel management, secure payments, chatbot support.  
-- **Tech:** React, PHP, MySQL, GPS APIs, Cloud Computing, Git.  
+- Real-time GPS tracking, cost estimation, secure payments, chatbot support.  
+- **Tech:** React, PHP, MySQL, GPS APIs, Cloud Computing.
 
-### 📱 [Student Class Management Mobile App](#)
-- Mobile app for scheduling, enrollment, and attendance tracking.  
-- **Tech:** Flutter, Firebase (authentication, storage, real-time database).  
+---
 
-### 📚 [BookZilla – Online Book Selling Web App](#)
-- MERN stack platform integrating Google Books API.  
+### 📚 [BookZilla – Online Book Selling Web App](https://github.com/dakshina-gk/BookZilla)
+- MERN stack platform integrating **Google Books API**.  
 - Features: authentication, shopping cart, secure checkout.  
 
-### 🎬 [Movie Web App](#)
-- Fetches data from TMDB API with browsing and search functionality.  
-- Built with React (frontend) & Node.js (backend).  
+---
 
-### 🏛 [Heritage Link – Cultural Heritage Platform](#)
-- Promotes and preserves Sri Lankan culture.  
-- Features: responsive design, seller/admin dashboards, interactive UI.  
+### 🎬 [POPcorn – Movie Web App](https://github.com/dakshina-gk/POPcorn)
+- Fetches movies from **TMDB API**.  
+- Features: browsing, search, responsive design.  
 
 ---
 
-## 🎯 Soft Skills
-- Problem Solving  
-- Teamwork & Collaboration  
-- Communication  
-- Team Management & Leadership  
+### 📱 [Mobile E-Learning App](https://github.com/dakshina-gk/Mobile-E-Learning-App)
+- Mobile app for class scheduling, enrollment, and attendance.  
+- **Tech:** Flutter, Firebase (auth, storage, real-time DB).  
 
 ---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/YOUR-LINK)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?logo=firefox&logoColor=white)](https://yourportfolio.com)  
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:youremail@example.com)  
+### 🏛 [Heritage Link – Cultural Heritage Platform](https://github.com/dakshina-gk/HeritageLink)
+- Promotes & preserves Sri Lankan cultural heritage.  
+- Features: responsive UI, dashboards, interactive animations.  
 
 ---
-⭐ **“Code is like humor. When you have to explain it, it’s bad.”**
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=dakshina-gk&show_icons=true&theme=radical" alt="GitHub Stats" height="165"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=dakshina-gk&theme=radical" alt="GitHub Streak" height="165"/>
+</p>
+
+---
+
+## 💡 Soft Skills
+- 🤝 Teamwork & Collaboration  
+- 🧠 Problem Solving  
+- 🗣 Communication  
+- 📋 Team Management & Leadership  
+
+---
+
+⭐ *"Code is like humor. When you have to explain it, it’s bad."*
